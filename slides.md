@@ -1,5 +1,5 @@
 ## Digital Humanities and Rare Books
-### Boston DH Symposium
+### Boston DH Symposium 2024
 
 ### Background: Intro to DH at Tufts University
 - We have run the class 3 times 
@@ -19,20 +19,23 @@ On completion of this course, students will be able to...
 1. Explain what the digital humanities are and how they relate to other forms of humanities research;
 2. Write and execute basic Python scripts;
 3. Pre-process a text/corpus in preparation for natural language processing;
+
+### Course learning Goals (cont.)
 4. Parse complex data structures such as Python dictionaries and Pandas data frames;
 5. Apply digital methodologies of various kinds to humanities related data;
 6. Evaluate the methodologies and results of digital humanities projects.
 
 ### Special Collections at Tisch Library
+Select formats:
 - medieval manuscripts
 - incunabula 
 - early printed books
 - 19th century pamphlets
 
+Select subject areas
 - early modern science and medicine
 - travel and exploration
 - history, philosophy, religion, history, politics, art, theater, and music
-
 
 ### Class Session Learning Goals
  1. Students gain an understanding of the history of physical books from the 13th to the 20th centuries
@@ -41,23 +44,24 @@ On completion of this course, students will be able to...
 
  ### Description of Class Session
  - Brief discussion of book history as a academic discipline
- - Comparison of 4 different digital editions Gibbon ch. 11
+ - Comparison of 4 different digital editions Gibbon
     - [Image](https://go.gale.com/ps/i.do?p=ECCO&u=mlin_m_tufts&id=GALE|CW0100409632&v=2.1&it=r&sid=bookmark-ECCO&sPage=15&password=OFYhE_c1mc5q1Hw4&ugroup=outsideeee)
     - [TEI/XML](https://github.com/msaxton/nlp-data/blob/main/gibbon.xml)
     - [Plain Text](https://www.gutenberg.org/cache/epub/731/pg731.txt)
     - [HTML](https://www.gutenberg.org/cache/epub/731/pg731-images.html#chap11.2)
 - Brief discussion of the importance of a text's materiality
 
-#### Sample titles (from over 50)
-- Hobbes, Thomas. _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
-- Blome, Richard. _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland, with the isles and territories thereto belonging_
-- Gibbon, Edward. _The history of the decline and fall of the Roman Empire_
-- Equino, Olaudah. _The life of Olaudah Equiano, or Gustavus Vassa, the African_
-- Truth, Sojournor. _Narrative of Sojourner Truth_.
-- Juvenal. _Iuuenalis ; Persius_
-- Whitman, Walt. _Leaves of Grass_
-- Boethius. _De consolatione philosophiae_
-
+#### Sample titles (from over 50 titles)
+- Boethius. (1450) _De consolatione philosophiae_
+- Juvenal. (1501) _Iuuenalis ; Persius_
+- Hobbes, Thomas. (1651) _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
+- Blome, Richard. (1673) _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland, with the isles and territories thereto belonging_
+- Cheselden, William. (1796) _Anatomical tables of the human body_
+- Gibbon, Edward. (1826) _The history of the decline and fall of the Roman Empire_
+- Equino, Olaudah. (1837) _The life of Olaudah Equiano, or Gustavus Vassa, the African_
+- Truth, Sojournor. (1875) _Narrative of Sojourner Truth_.
+- Whitman, Walt. (1856) _Leaves of Grass_
+- Wharton, Edith. (1905) _The House of Mirth_
 
 #### In-Class Activity
 Pick a book and answer the following questions. It is fine to pick a source you cannot read. You
