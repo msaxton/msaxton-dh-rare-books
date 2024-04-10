@@ -48,6 +48,17 @@ On completion of this course, students will be able to...
     - [HTML](https://www.gutenberg.org/cache/epub/731/pg731-images.html#chap11.2)
 - Brief discussion of the importance of a text's materiality
 
+#### Sample titles (from over 50)
+- Hobbes, Thomas. _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
+- Blome, Richard. _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland, with the isles and territories thereto belonging_
+- Gibbon, Edward. _The history of the decline and fall of the Roman Empire_
+- Equino, Olaudah. _The life of Olaudah Equiano, or Gustavus Vassa, the African_
+- Truth, Sojournor. _Narrative of Sojourner Truth_.
+- Juvenal. _Iuuenalis ; Persius_
+- Whitman, Walt. _Leaves of Grass_
+- Boethius. _De consolatione philosophiae_
+
+
 #### In-Class Activity
 Pick a book and answer the following questions. It is fine to pick a source you cannot read. You
 may complete this exercise alone or with a partner. Be prepared to discuss your findings with
