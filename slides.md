@@ -60,8 +60,8 @@ Select subject areas
 
 #### Sample titles (from over 50 titles)
 - Boethius. (1450) _De consolatione philosophiae_
-- Juvenal. (1501) _Iuuenalis ; Persius_
-- Hobbes, Thomas. (1651) _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
+- [Cicero. (1475) _[Selected works of Cicero, Petrarch, and Pseudo-Plutarch]_](https://www.flickr.com/photos/tischlibraryspecialcollections/albums/72157716183501171/)
+- [Hobbes, Thomas. (1651) _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_](https://www.flickr.com/photos/tischlibraryspecialcollections/albums/72157715922155176/)
 - Blome, Richard. (1673) _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland_
 - Cheselden, William. (1796) _Anatomical tables of the human body_
 
