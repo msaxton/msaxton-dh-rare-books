@@ -55,7 +55,7 @@ Select subject areas
 - Boethius. (1450) _De consolatione philosophiae_
 - Juvenal. (1501) _Iuuenalis ; Persius_
 - Hobbes, Thomas. (1651) _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
-- Blome, Richard. (1673) _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland, with the isles and territories thereto belonging_
+- Blome, Richard. (1673) _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland_
 - Cheselden, William. (1796) _Anatomical tables of the human body_
 
 #### Sample titles (from over 50 titles)
@@ -84,7 +84,6 @@ important to include these elements in a digital representation of this source? 
 why not?
 
  ### Assignment
-
  Students are given two options for the assignment:
  1. Take a photo of a page with paratextual elements and them encode the page using TEI
  2. Parse a chapter of Gibbon's text in TEI 
