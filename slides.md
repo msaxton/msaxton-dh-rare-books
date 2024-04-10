@@ -57,6 +57,8 @@ Select subject areas
 - Hobbes, Thomas. (1651) _Leviathan, or, The matter, forme, & power of a common-wealth ecclesiasticall and civill_
 - Blome, Richard. (1673) _Britannia: or, A geographical description of the kingdoms of England, Scotland and Ireland, with the isles and territories thereto belonging_
 - Cheselden, William. (1796) _Anatomical tables of the human body_
+
+#### Sample titles (from over 50 titles)
 - Gibbon, Edward. (1826) _The history of the decline and fall of the Roman Empire_
 - Equino, Olaudah. (1837) _The life of Olaudah Equiano, or Gustavus Vassa, the African_
 - Truth, Sojournor. (1875) _Narrative of Sojourner Truth_.
@@ -86,7 +88,7 @@ why not?
  Students are given two options for the assignment:
  1. Take a photo of a page with paratextual elements and them encode the page using TEI
  2. Parse a chapter of Gibbon's text in TEI 
-    - (Google Colab Notebook)[https://colab.research.google.com/drive/16yLqDpEuQXiqrQsJy5jS7W_FSdIo8nIa?usp=sharing]
+    - [Google Colab Notebook](https://colab.research.google.com/drive/16yLqDpEuQXiqrQsJy5jS7W_FSdIo8nIa?usp=sharing)
 
 ### What Has Worked Well
 - Students generally appreciate the opportunity to view and work with rare books.
