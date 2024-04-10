@@ -1,5 +1,6 @@
 ## Digital Humanities and Rare Books
 ### Boston DH Symposium 2024
+Christopher Barbour and Micah Saxton
 
 ### Background: Intro to DH at Tufts University
 - We have run the class 3 times 
