@@ -43,6 +43,12 @@ Select subject areas
  2. Students contextualize the work they have been doing with digital texts in light of a larger material textual tradition
  3. Students learn to encode paratextual material from print books into TEI format
 
+ ### Assigned Readings
+ - [Symonds, Matthew, and Earle Havens. “What Is the History of Books? | Archaeology of Reading.” Archaeology of Reading | (blog), August 30, 2016.](https://archaeologyofreading.org/historiography/)
+ - [Dunning, Andrew. “Transcribing Medieval Manuscripts with TEI.” Andrew Dunning, January 28, 2019.](https://andrewdunning.ca/transcribing-medieval-manuscripts-tei)
+ - [Tonra, Justin. “Book History and Digital Humanities in the Long Eighteenth Century.” Eighteenth-Century Studies 54, no. 4 (2021): 765–83](https://muse.jhu.edu/article/802441)
+ - [Justin, Colin. "XML/TEI in Five Minutes"](https://www.youtube.com/watch?v=b1AiliIEpD4)
+
  ### Description of Class Session
  - Brief discussion of book history as a academic discipline
  - Comparison of 4 different digital editions Gibbon
